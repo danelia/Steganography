@@ -7,7 +7,7 @@ Python program based on steganographical methods to hide files in images.
 * `encode_image(msg, img_loc, out_loc)` takes message(`msg`) and hides it in image(`img_loc`) and saves in `out_loc`. default ouput file is "encoded_image.png". `msg` can be either file or string.
 * `decode_image(img_loc)` takes image and finds hidden message. If output file isn't specified(see usage) hidden message will be displayed on terminal.
 
-Note that, program only supports RGB images.
+Note that, program only supports RGB images and output image has to have `.png` extension.
 
 ## Installation
 
