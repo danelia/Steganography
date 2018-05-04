@@ -1,6 +1,6 @@
 # Steganography
 
-Python program based on stegonographical methods to hide files in images.
+Python program based on steganographical methods to hide files in images.
 
 ## Information
 
